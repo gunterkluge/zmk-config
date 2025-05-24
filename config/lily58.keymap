@@ -65,7 +65,7 @@
             bindings = <
 &trans  &trans    &trans    &trans     &trans     &trans                       &trans                &trans                 &trans         &trans            &trans         &trans
 &trans  &trans    &trans    &trans     &trans     &trans                       &kp NUMBER_1          &kp NUMBER_2           &kp NUMBER_3   &kp NUMBER_4      &kp N5         &trans
-&trans  &kp LGUI  &kp LALT  &kp LCTRL  &kp LSHFT  &trans                       &kp N6                &kp N7                 &kp N8         &kp N9            &kp N0         &trans
+&trans  &kp LGUI  &kp LALT  &kp LCTRL  &kp LSHFT  &trans                       &kp N6                &kp N7                 &kp N8         &kp N9            &kp N0         &kp GRAVE
 &trans  &trans    &trans    &trans     &trans     &trans  &trans    &trans     &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LESS_THAN  &kp GREATER_THAN  &kp BACKSLASH  &trans
                             &trans     &trans     &trans  &trans    &kp MINUS  &kp EQUAL             &kp COMMA              &kp PERIOD
             >;
